@@ -33,7 +33,7 @@ Validation was used on all project forms to make sure the user is providing the 
 
 ## Templates of the first application
 - About us page: This page displays information about the application goal and the team who worked on creating it.
-![image]("https://i.imgur.com/7j4rUpC.png")
+![About us](https://user-images.githubusercontent.com/110819077/203492789-98b22a6c-4a4b-4bd0-99b5-7e81d8bd7f78.PNG)
 
 - Login and Registration page: This page allows users to log in and register in the application.
  ![image]("https://i.imgur.com/gRPbnSE.png")
